@@ -52,4 +52,4 @@ The site is able to do the following:
 
 [Back to Main](#mainContents)
 
-> Christopher Castanuela [here](thechriscast.com)
+> Christopher Castanuela [here](https://chriscastanuela.github.io/homepage/)
